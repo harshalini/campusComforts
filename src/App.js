@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Carousel/>
-      <Rooms/>
+      {/* <Rooms/> */}
       {/* <Admin/> */}
     </div>
   );
